@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" verbose="1" >
+    <listeners>
+        <listener class-name="Utils.TestListener"/>
+    </listeners>
+    <test preserve-order="true" name="D:/Automation-Practice/Orange HRM">
+
+        <classes>
+            <class name="LoginTest"/>
+            <class name="AddEmployeeTest"/>
+            <class name="AddUserTest"/>
+        </classes>
+
+    </test>
+</suite>

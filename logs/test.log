@@ -1,0 +1,1082 @@
+
+2025-08-20 22:03:26 INFO  BaseTest:46 - Browser launched successfully: chrome
+2025-08-20 22:03:30 INFO  BaseTest:61 - Application launched successfully: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-08-20 22:03:30 DEBUG BaseTest:62 - Waiting for the page to load...
+2025-08-20 22:03:39 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-20 22:15:08 INFO  BaseTest:46 - Browser launched successfully: chrome
+2025-08-20 22:15:16 INFO  BaseTest:61 - Application launched successfully: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-08-20 22:15:16 DEBUG BaseTest:62 - Waiting for the page to load...
+2025-08-20 22:15:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-20 22:15:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-20 22:15:16 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-20 22:15:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-20 22:15:18 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-20 22:15:18 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-20 22:15:20 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-20 22:15:20 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-20 22:15:21 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-20 22:15:21 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-20 22:15:23 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-20 22:15:23 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-20 22:15:24 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-20 22:22:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-20 22:22:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-20 22:22:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-20 22:22:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-20 22:22:43 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-20 22:23:14 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-20 22:23:42 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-20 22:24:12 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-20 22:24:40 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-20 22:25:09 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-20 22:25:09 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 18:01:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 18:01:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 18:01:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 18:01:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 18:02:26 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-23 18:02:55 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 18:04:54 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 18:04:54 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 18:39:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 18:39:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 18:39:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 18:39:16 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 18:39:16 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 18:39:17 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 18:39:18 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 18:39:19 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 18:39:20 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 18:39:20 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 18:39:20 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 18:39:20 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 18:39:22 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 18:39:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 18:39:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 18:39:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 18:39:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 18:39:58 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-23 18:41:56 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-23 18:43:08 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 18:43:08 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 18:43:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 18:43:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 18:43:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 18:43:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 18:44:52 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:04:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:04:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:04:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:04:21 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:04:21 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 19:04:22 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 19:04:23 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 19:04:24 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 19:04:25 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 19:04:25 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 19:04:26 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 19:04:27 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 19:04:27 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:04:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:04:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:04:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:04:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:05:04 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-23 19:05:32 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-23 19:06:01 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 19:06:30 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-23 19:06:58 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-23 19:07:27 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 19:07:28 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:07:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:07:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:07:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:07:36 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:08:40 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:17:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:17:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:17:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:17:36 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:17:37 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 19:17:39 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 19:17:41 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 19:17:41 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 19:17:42 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 19:17:42 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 19:17:44 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 19:17:44 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 19:17:45 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:17:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:17:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:17:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:17:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:19:05 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-23 19:19:34 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 19:20:04 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-23 19:20:32 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-23 19:21:02 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 19:21:02 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 19:21:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 19:21:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 19:21:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 19:21:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 19:22:11 INFO  BaseTest:71 - Browser closed successfully.
+2025-08-23 22:42:42 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:42:44 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:42:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:42:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:42:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:42:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:42:49 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 22:42:50 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 22:42:51 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 22:42:52 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 22:42:53 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 22:42:53 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 22:42:54 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 22:42:55 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 22:42:55 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 22:42:55 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:42:56 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:43:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:43:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:43:00 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:43:00 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:43:31 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-23 22:44:00 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-23 22:44:29 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 22:44:58 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-23 22:45:28 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-23 22:46:12 INFO  TestListener:41 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 22:46:12 ERROR TestListener:27 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:25) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:46:12 WARN  TestListener:62 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 22:46:13 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 22:46:13 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:46:14 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:46:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:46:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:46:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:46:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:46:44 INFO  TestListener:41 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:46:44 ERROR TestListener:27 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:25) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:46:44 WARN  TestListener:62 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:47:12 INFO  TestListener:41 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:47:12 ERROR TestListener:27 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:25) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:47:12 WARN  TestListener:62 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:47:44 INFO  TestListener:41 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:47:44 ERROR TestListener:27 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:25) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:42) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:47:44 WARN  TestListener:62 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:47:44 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 22:49:38 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:49:39 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:49:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:49:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:49:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:49:45 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:49:45 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 22:49:46 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 22:49:47 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 22:49:48 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 22:49:49 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 22:49:49 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 22:49:51 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 22:49:51 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 22:49:51 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 22:49:51 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:49:52 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:49:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:49:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:49:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:49:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:50:27 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-23 22:51:11 INFO  TestListener:43 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 22:51:11 ERROR TestListener:29 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:27) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:44) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:51:11 WARN  TestListener:64 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 22:51:39 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 22:52:23 INFO  TestListener:43 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 22:52:23 ERROR TestListener:29 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:27) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:44) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:52:23 WARN  TestListener:64 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 22:52:52 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-23 22:53:22 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 22:53:22 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 22:53:22 INFO  BaseTest:53 - Launching application...
+2025-08-23 22:53:23 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 22:53:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 22:53:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 22:53:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 22:53:27 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 22:53:52 INFO  TestListener:43 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:53:52 ERROR TestListener:29 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:27) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:44) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:53:52 WARN  TestListener:64 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:54:20 INFO  TestListener:43 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:54:20 ERROR TestListener:29 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:27) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:44) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:54:20 WARN  TestListener:64 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:54:31 INFO  TestListener:43 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 22:54:31 ERROR TestListener:29 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:27) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:44) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 22:54:31 WARN  TestListener:64 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 22:54:31 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:21:32 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:21:33 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:21:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:21:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:21:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:21:38 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:21:38 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 23:21:39 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 23:21:40 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 23:21:41 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 23:21:42 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 23:21:42 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 23:21:43 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 23:21:43 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 23:21:44 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:21:44 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:21:45 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:21:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:21:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:21:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:21:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:22:20 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-23 23:23:04 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:23:04 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:23:04 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 23:23:47 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:23:47 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:23:47 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 23:24:31 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:24:31 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:24:31 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 23:25:15 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:25:15 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:25:15 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 23:26:01 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:26:01 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:26:01 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-23 23:26:01 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:26:01 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:26:02 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:26:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:26:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:26:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:26:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:26:31 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:26:31 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:26:31 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 23:26:59 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:26:59 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:26:59 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 23:27:10 INFO  TestListener:48 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:27:10 ERROR TestListener:31 - Failed to get WebDriver from test class: driver
+java.lang.NoSuchFieldException: driver
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2792) ~[?:?]
+	at Utils.TestListener2.getDriver(TestListener.java:29) ~[test-classes/:?]
+	at Utils.TestListener2.onTestFailure(TestListener.java:49) ~[test-classes/:?]
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:115) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:777) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-08-23 23:27:10 WARN  TestListener:69 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-23 23:27:10 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:40:02 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:40:03 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:40:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:40:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:40:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:40:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:40:09 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-23 23:40:10 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-23 23:40:11 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-23 23:40:11 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-23 23:40:12 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-23 23:40:12 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-23 23:40:13 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-23 23:40:13 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-23 23:40:14 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:40:14 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:40:15 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:40:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:40:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:40:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:40:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:41:06 INFO  TestListener:54 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-23 23:41:06 DEBUG TestListener:34 - Driver field not found in AddEmployeeTest, checking superclass
+2025-08-23 23:41:06 DEBUG TestListener:29 - WebDriver found in class: BaseTest
+2025-08-23 23:41:06 DEBUG TestListener:58 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-08-23 23:41:06 INFO  TestListener:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20250823_234106.png
+2025-08-23 23:41:06 DEBUG TestListener:48 - Attaching screenshot to Allure for test: testAddEmployee
+2025-08-23 23:41:34 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-23 23:42:03 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-23 23:42:32 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-23 23:43:01 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-23 23:43:30 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-23 23:43:30 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-23 23:43:30 INFO  BaseTest:53 - Launching application...
+2025-08-23 23:43:31 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-23 23:43:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-23 23:43:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-23 23:43:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-23 23:43:36 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-23 23:44:00 INFO  TestListener:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:44:00 DEBUG TestListener:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-23 23:44:00 DEBUG TestListener:29 - WebDriver found in class: BaseTest
+2025-08-23 23:44:00 DEBUG TestListener:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-23 23:44:00 INFO  TestListener:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250823_234400.png
+2025-08-23 23:44:00 DEBUG TestListener:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-23 23:44:28 INFO  TestListener:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:44:28 DEBUG TestListener:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-23 23:44:28 DEBUG TestListener:29 - WebDriver found in class: BaseTest
+2025-08-23 23:44:28 DEBUG TestListener:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-23 23:44:28 INFO  TestListener:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250823_234428.png
+2025-08-23 23:44:28 DEBUG TestListener:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-23 23:44:40 INFO  TestListener:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-23 23:44:40 DEBUG TestListener:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-23 23:44:40 DEBUG TestListener:29 - WebDriver found in class: BaseTest
+2025-08-23 23:44:40 DEBUG TestListener:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-23 23:44:40 INFO  TestListener:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250823_234440.png
+2025-08-23 23:44:40 DEBUG TestListener:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-23 23:44:40 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 10:51:07 INFO  BaseTest:53 - Launching application...
+2025-08-24 10:51:09 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 10:51:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 10:51:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 10:51:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 10:51:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 10:51:14 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-24 10:51:15 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-24 10:51:16 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-24 10:51:17 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-24 10:51:18 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-24 10:51:18 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-24 10:51:19 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-24 10:51:19 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-24 10:51:20 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 10:51:20 INFO  BaseTest:53 - Launching application...
+2025-08-24 10:51:21 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 10:51:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 10:51:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 10:51:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 10:51:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 10:51:55 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-24 10:52:24 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-24 10:52:52 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-24 10:53:21 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-24 10:53:50 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-24 10:54:19 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-24 10:54:19 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 10:54:19 INFO  BaseTest:53 - Launching application...
+2025-08-24 10:54:20 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 10:54:23 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 10:54:23 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 10:54:23 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 10:54:23 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 10:54:49 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 10:54:49 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 10:54:49 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 10:54:49 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 10:54:49 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_105449.png
+2025-08-24 10:54:49 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 10:55:17 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 10:55:17 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 10:55:17 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 10:55:17 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 10:55:17 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_105517.png
+2025-08-24 10:55:17 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 10:55:28 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 10:55:28 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 10:55:28 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 10:55:28 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 10:55:28 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_105528.png
+2025-08-24 10:55:28 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 10:55:29 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 10:59:44 INFO  BaseTest:53 - Launching application...
+2025-08-24 10:59:46 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 10:59:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 10:59:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 10:59:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 10:59:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 10:59:51 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-24 10:59:52 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-24 10:59:53 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-24 10:59:54 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-24 10:59:54 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-24 10:59:55 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-24 10:59:56 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-24 10:59:56 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-24 10:59:57 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 10:59:57 INFO  BaseTest:53 - Launching application...
+2025-08-24 10:59:58 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 11:00:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 11:00:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 11:00:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 11:00:02 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 11:00:32 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-24 11:01:01 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-24 11:01:30 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-24 11:01:59 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-24 11:02:28 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-24 11:02:57 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-24 11:02:57 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 11:02:57 INFO  BaseTest:53 - Launching application...
+2025-08-24 11:02:58 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 11:03:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 11:03:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 11:03:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 11:03:03 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 11:03:28 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 11:03:28 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 11:03:28 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 11:03:28 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 11:03:28 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_110328.png
+2025-08-24 11:03:28 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 11:03:56 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 11:03:56 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 11:03:56 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 11:03:56 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 11:03:56 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_110356.png
+2025-08-24 11:03:56 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 11:04:07 INFO  TestListener2:54 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 11:04:07 DEBUG TestListener2:34 - Driver field not found in AddUserTest, checking superclass
+2025-08-24 11:04:07 DEBUG TestListener2:29 - WebDriver found in class: BaseTest
+2025-08-24 11:04:07 DEBUG TestListener2:58 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 11:04:07 INFO  TestListener2:63 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_110407.png
+2025-08-24 11:04:07 DEBUG TestListener2:48 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 11:04:07 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 17:05:17 INFO  BaseTest:53 - Launching application...
+2025-08-24 17:05:19 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 17:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:05:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:05:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:06:38 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-24 17:07:07 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-24 17:07:37 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-24 17:08:08 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-24 17:08:37 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-24 17:08:38 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 17:09:20 INFO  BaseTest:53 - Launching application...
+2025-08-24 17:09:22 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 17:09:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:09:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:09:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:09:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:09:27 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-24 17:09:28 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-24 17:09:28 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-24 17:09:29 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-24 17:09:30 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-24 17:09:30 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-24 17:09:31 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-24 17:09:31 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-24 17:09:32 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 17:09:32 INFO  BaseTest:53 - Launching application...
+2025-08-24 17:09:33 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 17:09:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:09:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:09:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:09:39 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:10:08 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-24 17:10:37 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-24 17:11:05 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-08-24 17:11:35 INFO  AddEmployeeTest:41 - Executing test case: Invalid_confirmpass with first name: majnukrohera and username: SandeepR and password: Jhon@123
+2025-08-24 17:12:19 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-24 17:12:19 WARN  TestListener:81 - WebDriver is null, cannot capture screenshot for test: testAddEmployee
+2025-08-24 17:12:47 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-24 17:12:47 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 17:12:47 INFO  BaseTest:53 - Launching application...
+2025-08-24 17:12:48 INFO  BaseTest:30 - Setting up browser: chrome
+2025-08-24 17:12:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:12:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:12:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:12:53 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:13:19 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:13:19 WARN  TestListener:81 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-24 17:13:49 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:13:49 WARN  TestListener:81 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-24 17:14:00 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:14:00 WARN  TestListener:81 - WebDriver is null, cannot capture screenshot for test: testAddUser
+2025-08-24 17:14:00 INFO  BaseTest:72 - Browser closed successfully.
+2025-08-24 17:23:27 INFO  BaseTest:56 - Launching application...
+2025-08-24 17:23:27 INFO  BaseTest:31 - Setting up browser: chrome
+2025-08-24 17:23:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:23:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:23:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:23:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:23:32 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-08-24 17:23:33 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-08-24 17:23:34 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-08-24 17:23:35 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-08-24 17:23:35 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-08-24 17:23:36 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-08-24 17:23:36 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-08-24 17:23:37 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-08-24 17:23:38 INFO  BaseTest:76 - Browser closed successfully.
+2025-08-24 17:23:38 INFO  BaseTest:56 - Launching application...
+2025-08-24 17:23:38 INFO  BaseTest:31 - Setting up browser: chrome
+2025-08-24 17:23:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:23:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:23:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:23:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:24:12 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-08-24 17:24:41 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-08-24 17:25:26 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-24 17:25:26 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-08-24 17:25:26 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20250824_172526.png
+2025-08-24 17:25:26 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddEmployee
+2025-08-24 17:26:10 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-08-24 17:26:10 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-08-24 17:26:10 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20250824_172610.png
+2025-08-24 17:26:10 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddEmployee
+2025-08-24 17:26:38 INFO  AddEmployeeTest:41 - Executing test case: Blank_pass with first name: nainakparaj and username: jhon_doe2 and password: 
+2025-08-24 17:27:07 INFO  AddEmployeeTest:41 - Executing test case: Already_user with first name: sapnalbhav and username: jhon_doe1 and password: Jhon@123
+2025-08-24 17:27:07 INFO  BaseTest:76 - Browser closed successfully.
+2025-08-24 17:27:07 INFO  BaseTest:56 - Launching application...
+2025-08-24 17:27:07 INFO  BaseTest:31 - Setting up browser: chrome
+2025-08-24 17:27:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-24 17:27:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-24 17:27:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-08-24 17:27:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-24 17:27:38 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:27:38 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 17:27:38 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_172738.png
+2025-08-24 17:27:38 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 17:28:05 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:28:05 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 17:28:06 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_172805.png
+2025-08-24 17:28:06 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 17:28:18 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-08-24 17:28:18 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-08-24 17:28:18 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20250824_172818.png
+2025-08-24 17:28:18 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-08-24 17:28:18 INFO  BaseTest:76 - Browser closed successfully.
+2025-10-20 16:32:05 INFO  BaseTest:56 - Launching application...
+2025-10-20 16:32:05 INFO  BaseTest:31 - Setting up browser: chrome
+2025-10-20 16:32:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-10-20 16:32:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-10-20 16:32:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-10-20 16:32:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-10-20 16:32:13 INFO  LoginTest:25 - Executing test case: Negative_InvalidUser with username: invalid_user and password: secret_sauce
+2025-10-20 16:32:14 INFO  LoginTest:44 - Test case 'Negative_InvalidUser': Expected invalid credentials error for username: invalid_user
+2025-10-20 16:32:15 INFO  LoginTest:25 - Executing test case: Negative_WrongPassword with username: standard_user and password: wrong_pass
+2025-10-20 16:32:16 INFO  LoginTest:44 - Test case 'Negative_WrongPassword': Expected invalid credentials error for username: standard_user
+2025-10-20 16:32:17 INFO  LoginTest:25 - Executing test case: Negative_EmptyUser with username:  and password: secret_sauce
+2025-10-20 16:32:17 INFO  LoginTest:38 - Test case 'Negative_EmptyUser': Blank field validation successful for username: 
+2025-10-20 16:32:19 INFO  LoginTest:25 - Executing test case: Positive_ValidUser with username: Admin and password: admin123
+2025-10-20 16:32:19 INFO  LoginTest:32 - Test case 'Positive_ValidUser': Login successful with username: Admin
+2025-10-20 16:32:20 INFO  BaseTest:76 - Browser closed successfully.
+2025-10-20 16:32:20 INFO  BaseTest:56 - Launching application...
+2025-10-20 16:32:20 INFO  BaseTest:31 - Setting up browser: chrome
+2025-10-20 16:32:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-10-20 16:32:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-10-20 16:32:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-10-20 16:32:27 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-10-20 16:32:57 INFO  AddEmployeeTest:41 - Executing test case: Success_case with first name: priyaLDoe and username: jhon_doe1 and password: Jhon@123
+2025-10-20 16:33:26 INFO  AddEmployeeTest:41 - Executing test case: Blank_user with first name: kriyaKEnglad and username:  and password: Jhon@123
+2025-10-20 16:33:54 INFO  AddEmployeeTest:41 - Executing test case: Blank_confirmpass with first name: lelamsanghvi and username: kamalS and password: Jhon@123
+2025-10-20 16:34:39 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-10-20 16:34:39 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-10-20 16:34:39 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20251020_163439.png
+2025-10-20 16:34:39 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddEmployee
+2025-10-20 16:35:23 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-10-20 16:35:23 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-10-20 16:35:23 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20251020_163523.png
+2025-10-20 16:35:23 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddEmployee
+2025-10-20 16:36:07 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddEmployee
+2025-10-20 16:36:07 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddEmployee
+2025-10-20 16:36:07 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddEmployee_20251020_163607.png
+2025-10-20 16:36:07 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddEmployee
+2025-10-20 16:36:08 INFO  BaseTest:76 - Browser closed successfully.
+2025-10-20 16:36:08 INFO  BaseTest:56 - Launching application...
+2025-10-20 16:36:08 INFO  BaseTest:31 - Setting up browser: chrome
+2025-10-20 16:36:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-10-20 16:36:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-10-20 16:36:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-10-20 16:36:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-10-20 16:36:40 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-10-20 16:36:40 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-10-20 16:36:40 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20251020_163640.png
+2025-10-20 16:36:40 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-10-20 16:37:08 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-10-20 16:37:08 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-10-20 16:37:08 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20251020_163708.png
+2025-10-20 16:37:08 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-10-20 16:37:30 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-10-20 16:37:30 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-10-20 16:37:30 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20251020_163730.png
+2025-10-20 16:37:30 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-10-20 16:37:52 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-10-20 16:37:52 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-10-20 16:37:52 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20251020_163752.png
+2025-10-20 16:37:52 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-10-20 16:38:14 INFO  TestListener:57 - TestListener: onTestFailure triggered for testAddUser
+2025-10-20 16:38:14 DEBUG TestListener:64 - WebDriver found, capturing screenshot for test: testAddUser
+2025-10-20 16:38:14 INFO  TestListener:69 - Screenshot saved to: D:\Automation-Practice\Orange HRM\screenshots\testAddUser_20251020_163814.png
+2025-10-20 16:38:14 DEBUG TestListener:51 - Attaching screenshot to Allure for test: testAddUser
+2025-10-20 16:38:15 INFO  BaseTest:76 - Browser closed successfully.
